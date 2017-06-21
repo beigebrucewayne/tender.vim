@@ -17,7 +17,7 @@ let g:colors_name="tender"
 " get rid of ugly signcolum color
 hi clear SignColumn
 " make vert split more pronounced
-hi VertSplit guifg=#080808 ctermfg=235 guibg=#080808 ctermbg=235 gui=NONE cterm=NONE
+hi VertSplit guifg=#292C34 ctermfg=235 guibg=#292C34 ctermbg=235 gui=NONE cterm=NONE
 
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
