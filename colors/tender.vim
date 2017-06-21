@@ -17,7 +17,7 @@ let g:colors_name="tender"
 " get rid of ugly signcolum color
 hi clear SignColumn
 " make vert split more pronounced
-hi VertSplit guifg=#292C34 ctermfg=235 guibg=#292C34 ctermbg=235 gui=NONE cterm=NONE
+hi VertSplit guifg=#0B0B0B ctermfg=235 guibg=#0B0B0B ctermbg=235 gui=NONE cterm=NONE
 
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
@@ -228,7 +228,7 @@ hi yamlFlowString guifg=#d3b987 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cte
 hi yamlFlowStringDelimiter guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlKeyValueDelimiter guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
-let g:terminal_color_foreground = "#282828"
+let g:terminal_color_foreground = "#0B0B0B"
 let g:terminal_color_background = "#eeeeee"
 let g:terminal_color_0 = "#282828"
 let g:terminal_color_1 = "#f43753"
